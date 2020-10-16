@@ -7,7 +7,6 @@ node_modules
 /node_modules
 uploads/*.jpg
 uploads/*.png
-frontend
 data.js
 template
 README.md
