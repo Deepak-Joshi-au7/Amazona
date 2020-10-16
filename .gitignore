@@ -7,11 +7,7 @@ node_modules
 /node_modules
 uploads/*.jpg
 uploads/*.png
-data.js
-template
 README.md
-package-lock.json
-Procfile
 
 /.pnp
 .pnp.js
